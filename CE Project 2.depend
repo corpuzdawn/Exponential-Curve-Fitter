@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1393127956 source:/home/hadrian/Desktop/CE Project 2/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"exp_curve_fitter.h"
+
+1393128153 /home/hadrian/Desktop/CE Project 2/exp_curve_fitter.h
+	<fstream>
+	<string>
+	<vector>
+	"exp_curve_fitter.h"
+
+1393126974 source:/home/hadrian/Desktop/CE Project 2/exp_curve_fitter.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cmath>
+	"exp_curve_fitter.h"
+
+1393156756 source:c:\users\corpuzdawn999\downloads\ce project 2\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"exp_curve_fitter.h"
+
+1393156952 c:\users\corpuzdawn999\downloads\ce project 2\exp_curve_fitter.h
+	<fstream>
+	<string>
+	<vector>
+	"exp_curve_fitter.h"
+
+1393156978 source:c:\users\corpuzdawn999\downloads\ce project 2\exp_curve_fitter.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cmath>
+	"exp_curve_fitter.h"
+
